@@ -34,6 +34,16 @@ This project analyzes marketing campaign performance across multiple channels (D
 
 ------------------------------------------------------------------------
 
+## 📊 Dashboard Pages
+
+### 🔹 Page 1 — **Summary**  
+![Summary](https://github.com/Mayreeobi/Marketing-Campaign-Dashboard-/blob/main/Summary.png)
+
+### 🔹 Page 2 — **Campaign Details**  
+![Campaign Details](https://github.com/Mayreeobi/Marketing-Campaign-Dashboard-/blob/main/Campaign%20Detail.png)
+
+------------------------------------------------------------------------
+
 ## 📊 Key Insights
 
 -   **Social Ads**: Best performing channel with **2.83% conversion
@@ -65,7 +75,7 @@ This project analyzes marketing campaign performance across multiple channels (D
 
 ## 📎 Project Assets
 
--    📂 Dataset
+-    📂 [Dataset](https://github.com/Mayreeobi/Marketing-Campaign-Dashboard-/blob/main/Postie_Marketing_Campaign_Simulated_Data.xlsx)
 -   🔗 [Interactive Tableau
     Dashboard](https://public.tableau.com/views/MarketingCampaignDashboard_17563924732170/Summary?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 -   📄 [Executive Summary Report
